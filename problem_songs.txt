@@ -1,0 +1,1665 @@
+问题文件列表
+--------------------------------------------------
+
+1. 空标题文件:
+------------------------------
+文件: RIIS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/RIIS.m4a
+时长: 05:27
+--------------------
+文件: YOLY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/YOLY.m4a
+时长: 04:18
+--------------------
+
+2. 乱码标题文件:
+------------------------------
+文件: WKWQ.mp3
+标题: 07. ÆøÊÆ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/WKWQ.mp3
+时长: 01:09
+--------------------
+文件: GSPY.mp3
+标题: Ëµ×ß¾Í×ß
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/GSPY.mp3
+时长: 04:26
+--------------------
+文件: MMSO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/MMSO.m4a
+时长: 03:30
+--------------------
+文件: KKGM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/KKGM.m4a
+时长: 03:44
+--------------------
+文件: FQCP.mp3
+标题: Ã·»¨ÈýÅª
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F00/FQCP.mp3
+时长: 05:26
+--------------------
+文件: HSEL.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F01/HSEL.m4a
+时长: 04:37
+--------------------
+文件: AYAA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F01/AYAA.m4a
+时长: 04:39
+--------------------
+文件: IVPQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F01/IVPQ.m4a
+时长: 03:53
+--------------------
+文件: TRPF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F01/TRPF.m4a
+时长: 00:42
+--------------------
+文件: OVEH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/OVEH.m4a
+时长: 03:24
+--------------------
+文件: DMAS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/DMAS.m4a
+时长: 04:53
+--------------------
+文件: GXOQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/GXOQ.m4a
+时长: 04:58
+--------------------
+文件: WDJX.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/WDJX.m4a
+时长: 05:23
+--------------------
+文件: KGUM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/KGUM.m4a
+时长: 00:00
+--------------------
+文件: YLPH.mp3
+标题: ²Êºç
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/YLPH.mp3
+时长: 04:23
+--------------------
+文件: TWRO.mp3
+标题: Ubuntu (Roy Rollin 45º Incline Remix)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/TWRO.mp3
+时长: 05:13
+--------------------
+文件: QSOT.m4a
+标题: Lucky (Suerte)(Feat. Ximena Sariñana)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F02/QSOT.m4a
+时长: 03:08
+--------------------
+文件: YQYR.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F03/YQYR.m4a
+时长: 05:56
+--------------------
+文件: MRPI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F03/MRPI.m4a
+时长: 04:18
+--------------------
+文件: LJXQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F03/LJXQ.m4a
+时长: 04:29
+--------------------
+文件: KVZW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F03/KVZW.m4a
+时长: 05:04
+--------------------
+文件: BRIO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/BRIO.m4a
+时长: 04:04
+--------------------
+文件: GQDO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/GQDO.m4a
+时长: 03:51
+--------------------
+文件: CMJW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/CMJW.m4a
+时长: 01:17
+--------------------
+文件: BSJQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/BSJQ.m4a
+时长: 00:43
+--------------------
+文件: AUVI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/AUVI.m4a
+时长: 04:01
+--------------------
+文件: PGGR.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/PGGR.m4a
+时长: 09:39
+--------------------
+文件: RXKV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/RXKV.m4a
+时长: 00:00
+--------------------
+文件: XOVN.mp3
+标题: ÍÁ¶úÆä±ùä¿ÁÜ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/XOVN.mp3
+时长: 03:15
+--------------------
+文件: BUWW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/BUWW.m4a
+时长: 05:15
+--------------------
+文件: KCFB.mp3
+标题: MEBAE£¨Ñ¿¤Ð¤¨£©
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/KCFB.mp3
+时长: 03:54
+--------------------
+文件: MDQN.mp3
+标题: Wolfgang Amadeus Mozart: Requiem in D minor, K.626 - compl. by Franz Xaver Süssmayer - 1. Requiem aeternam
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F04/MDQN.mp3
+时长: 05:24
+--------------------
+文件: MURF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/MURF.m4a
+时长: 06:59
+--------------------
+文件: ZBOZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/ZBOZ.m4a
+时长: 02:16
+--------------------
+文件: LWZS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/LWZS.m4a
+时长: 04:11
+--------------------
+文件: FPQY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/FPQY.m4a
+时长: 04:35
+--------------------
+文件: MTWM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/MTWM.m4a
+时长: 00:00
+--------------------
+文件: JMXI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/JMXI.m4a
+时长: 03:47
+--------------------
+文件: SLFN.mp3
+标题: Ï×ÊÀ(Live)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/SLFN.mp3
+时长: 04:34
+--------------------
+文件: TSVT.mp3
+标题: ³¶
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F05/TSVT.mp3
+时长: 03:30
+--------------------
+文件: VBGC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/VBGC.m4a
+时长: 04:22
+--------------------
+文件: DEND.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/DEND.m4a
+时长: 04:17
+--------------------
+文件: ROQY.mp3
+标题: 35. ÌìÌ¨µÄÔÂ¹â£¨¼ªËû°æ£©
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/ROQY.mp3
+时长: 01:54
+--------------------
+文件: FWWB.mp3
+标题: 22. ÎÝ¶¥ÉÏµÄÔ¸Íû
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/FWWB.mp3
+时长: 02:18
+--------------------
+文件: AOZR.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/AOZR.m4a
+时长: 04:16
+--------------------
+文件: NZND.mp3
+标题: °®Çé·Ï²ñ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/NZND.mp3
+时长: 04:45
+--------------------
+文件: TLAS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/TLAS.m4a
+时长: 03:38
+--------------------
+文件: BPMX.mp3
+标题: ûÐÄµÄÎÒ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/BPMX.mp3
+时长: 04:21
+--------------------
+文件: LHSH.mp3
+标题: Ô­Éù´óµú - Â·Ð¡Óê
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/LHSH.mp3
+时长: 01:39
+--------------------
+文件: QNTL.mp3
+标题: Ô­Éù´óµú - ¶·ÇÙ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/QNTL.mp3
+时长: 02:14
+--------------------
+文件: SFUW.mp3
+标题: ÃÎÏëÆô¶¯
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F06/SFUW.mp3
+时长: 03:25
+--------------------
+文件: CYYA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F07/CYYA.m4a
+时长: 04:44
+--------------------
+文件: JIBV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F07/JIBV.m4a
+时长: 03:33
+--------------------
+文件: JDJC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F07/JDJC.m4a
+时长: 05:26
+--------------------
+文件: YTHU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F07/YTHU.m4a
+时长: 03:30
+--------------------
+文件: YIWO.mp3
+标题: ¸ßÔ­ïLÇé
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F07/YIWO.mp3
+时长: 04:23
+--------------------
+文件: FAEG.mp3
+标题: Ô­Éù´óµú - ÇéÈËµÄÑÛÀá
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F07/FAEG.mp3
+时长: 05:59
+--------------------
+文件: OZNG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F08/OZNG.m4a
+时长: 05:49
+--------------------
+文件: MBLB.mp3
+标题: 17. ¹äÒ¹ÊÐ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F08/MBLB.mp3
+时长: 00:41
+--------------------
+文件: BYNZ.mp3
+标题: Ä¾Ìm²ñ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F08/BYNZ.mp3
+时长: 03:37
+--------------------
+文件: QTBC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F09/QTBC.m4a
+时长: 03:42
+--------------------
+文件: WLFW.mp3
+标题: 33. ÍöÃü×·Öð
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F09/WLFW.mp3
+时长: 03:54
+--------------------
+文件: CHDI.mp3
+标题: 08. ÁúÃÅÔèÌÃ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F09/CHDI.mp3
+时长: 01:18
+--------------------
+文件: ILMH.mp3
+标题: Î´ÔøÉîÛÒÑoÇé
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F09/ILMH.mp3
+时长: 03:53
+--------------------
+文件: YDDE.mp3
+标题: Ô­Éù´óµú - Secret (Âý°å)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F09/YDDE.mp3
+时长: 01:07
+--------------------
+文件: ZAVA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/ZAVA.m4a
+时长: 01:02
+--------------------
+文件: AEWO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/AEWO.m4a
+时长: 03:47
+--------------------
+文件: QQJT.mp3
+标题: Ò»µãµã
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/QQJT.mp3
+时长: 03:42
+--------------------
+文件: YTDC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/YTDC.m4a
+时长: 03:22
+--------------------
+文件: RAYM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/RAYM.m4a
+时长: 04:58
+--------------------
+文件: AXKO.mp3
+标题: Générique D'ouverture (Opening Theme)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/AXKO.mp3
+时长: 00:52
+--------------------
+文件: PMIU.mp3
+标题: Ô­Éù´óµú - Ending
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F10/PMIU.mp3
+时长: 01:25
+--------------------
+文件: DAFN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/DAFN.m4a
+时长: 03:33
+--------------------
+文件: ZPKC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/ZPKC.m4a
+时长: 04:33
+--------------------
+文件: CTCL.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/CTCL.m4a
+时长: 04:39
+--------------------
+文件: KIVV.mp3
+标题: 25. ÌìÌ¨µÄÔÂ¹â
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/KIVV.mp3
+时长: 02:35
+--------------------
+文件: WEZU.mp3
+标题: 19. ÀÌ½ðÓã
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/WEZU.mp3
+时长: 00:47
+--------------------
+文件: ZAQK.mp3
+标题: King Kill 33°
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/ZAQK.mp3
+时长: 02:18
+--------------------
+文件: QDUD.mp3
+标题: ÉÏº£¥¹¥È©`¥ê©`
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/QDUD.mp3
+时长: 06:16
+--------------------
+文件: GTID.mp3
+标题: Ï×ÊÀ(Live)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/GTID.mp3
+时长: 04:34
+--------------------
+文件: EVYY.mp3
+标题: Ô­Éù´óµú - Ð¡ÓêÐ´Á¢¿É°×¢ò
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/EVYY.mp3
+时长: 01:40
+--------------------
+文件: EJFX.mp3
+标题: 花·心
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F11/EJFX.mp3
+时长: 03:50
+--------------------
+文件: OFHR.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F12/OFHR.m4a
+时长: 04:44
+--------------------
+文件: YJSO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F12/YJSO.m4a
+时长: 03:48
+--------------------
+文件: GDDG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F12/GDDG.m4a
+时长: 04:36
+--------------------
+文件: VBXI.mp3
+标题: ¸æ°×ÆøÇò
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F12/VBXI.mp3
+时长: 03:35
+--------------------
+文件: LYZC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F12/LYZC.m4a
+时长: 04:23
+--------------------
+文件: XZVE.mp3
+标题: Ô­Éù´óµú - Flash Back
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F12/XZVE.mp3
+时长: 03:18
+--------------------
+文件: YCJP.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/YCJP.m4a
+时长: 04:33
+--------------------
+文件: ZGZT.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/ZGZT.m4a
+时长: 04:32
+--------------------
+文件: ERLM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/ERLM.m4a
+时长: 04:40
+--------------------
+文件: UGBV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/UGBV.m4a
+时长: 03:55
+--------------------
+文件: OYBN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/OYBN.m4a
+时长: 07:49
+--------------------
+文件: RMAI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/RMAI.m4a
+时长: 03:05
+--------------------
+文件: XNKF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/XNKF.m4a
+时长: 03:52
+--------------------
+文件: POBV.mp3
+标题: ÐÄÂ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/POBV.mp3
+时长: 04:19
+--------------------
+文件: BDRP.mp3
+标题: ³¯»¨
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/BDRP.mp3
+时长: 04:25
+--------------------
+文件: GDFL.mp3
+标题: Wolfgang Amadeus Mozart: Requiem in D minor, K.626 - compl. by Franz Xaver Süssmayer - 1. Requiem aeternam
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/GDFL.mp3
+时长: 05:24
+--------------------
+文件: WFGK.mp3
+标题: Çà»¨´É
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/WFGK.mp3
+时长: 03:59
+--------------------
+文件: ELSB.mp3
+标题: ËÄ¼¾ÁÐ³µ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/ELSB.mp3
+时长: 02:39
+--------------------
+文件: FKDX.mp3
+标题: Where Are Ü Now (LIONE Remix)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/FKDX.mp3
+时长: 03:52
+--------------------
+文件: NVUG.m4a
+标题: 10,000 Motherf***ers (Live from Montalvo)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F13/NVUG.m4a
+时长: 07:34
+--------------------
+文件: RHUG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/RHUG.m4a
+时长: 03:30
+--------------------
+文件: CABO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/CABO.m4a
+时长: 03:23
+--------------------
+文件: LLMK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/LLMK.m4a
+时长: 04:35
+--------------------
+文件: JQSO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/JQSO.m4a
+时长: 04:24
+--------------------
+文件: VTTA.mp3
+标题: ²»¸Ã (with.ÕÅ»ÝÃÃ)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/VTTA.mp3
+时长: 04:51
+--------------------
+文件: KLTF.mp3
+标题: 16. Ë®¹ÜµÄÓÑÇé
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/KLTF.mp3
+时长: 01:26
+--------------------
+文件: XVCJ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/XVCJ.m4a
+时长: 08:12
+--------------------
+文件: NTBD.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/NTBD.m4a
+时长: 03:57
+--------------------
+文件: XZLO.mp3
+标题: ÉÙÄêr´ú
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/XZLO.mp3
+时长: 06:06
+--------------------
+文件: ZYEQ.mp3
+标题: ¾Õ»¨Ì¨ ¸ÖÇÙÇú
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/ZYEQ.mp3
+时长: 04:10
+--------------------
+文件: CWYX.mp3
+标题: ÎÒ²»Åä
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F14/CWYX.mp3
+时长: 04:48
+--------------------
+文件: ZNRT.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F15/ZNRT.m4a
+时长: 04:29
+--------------------
+文件: WEVP.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F15/WEVP.m4a
+时长: 02:54
+--------------------
+文件: BOKL.mp3
+标题: 09. ´ò¼ÜÎè
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F15/BOKL.mp3
+时长: 01:08
+--------------------
+文件: WWKX.mp3
+标题: 31. ±¯¾çµÄÐòÄ»
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F15/WWKX.mp3
+时长: 01:29
+--------------------
+文件: OUEV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F15/OUEV.m4a
+时长: 04:50
+--------------------
+文件: HCQM.mp3
+标题: ±ùöµÄÅ®ÈË
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F15/HCQM.mp3
+时长: 04:32
+--------------------
+文件: KDSB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/KDSB.m4a
+时长: 04:40
+--------------------
+文件: PEKU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/PEKU.m4a
+时长: 04:33
+--------------------
+文件: JZVS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/JZVS.m4a
+时长: 04:05
+--------------------
+文件: MOKV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/MOKV.m4a
+时长: 06:15
+--------------------
+文件: UVYD.mp3
+标题: ëxeµÄu»@Çú
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/UVYD.mp3
+时长: 04:04
+--------------------
+文件: AOES.mp3
+标题: 何日君再来（ホーリーチンツァイライ）（｛アイ・ラブ・チャイナ｝Ｎｅｗ－Ｍｉｘヴァージョン）
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/AOES.mp3
+时长: 06:07
+--------------------
+文件: EUKL.mp3
+标题: À¼Í¤Ðò
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/EUKL.mp3
+时长: 04:15
+--------------------
+文件: NHED.mp3
+标题: ±È½Ï´óµÄ´óÌáÇÙ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F16/NHED.mp3
+时长: 04:12
+--------------------
+文件: FIIW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F17/FIIW.m4a
+时长: 09:00
+--------------------
+文件: QCBR.mp3
+标题: |·½»¨@
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F17/QCBR.mp3
+时长: 04:15
+--------------------
+文件: UHEG.mp3
+标题: Ì«êÕÕÔÚÄãÄÉÏ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F17/UHEG.mp3
+时长: 01:05
+--------------------
+文件: TLMW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/TLMW.m4a
+时长: 03:52
+--------------------
+文件: BKNM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/BKNM.m4a
+时长: 04:12
+--------------------
+文件: RLQW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/RLQW.m4a
+时长: 06:27
+--------------------
+文件: XDDX.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/XDDX.m4a
+时长: 03:56
+--------------------
+文件: PLBG.mp3
+标题: Ó¢ÐÛ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/PLBG.mp3
+时长: 03:21
+--------------------
+文件: CNZI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/CNZI.m4a
+时长: 04:09
+--------------------
+文件: MDXK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/MDXK.m4a
+时长: 45:42
+--------------------
+文件: NCIH.mp3
+标题: Å£×ÐºÜÃ¦
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/NCIH.mp3
+时长: 02:48
+--------------------
+文件: QCZO.mp3
+标题: °®ÄãÃ»²î
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F18/QCZO.mp3
+时长: 04:40
+--------------------
+文件: ULEK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/ULEK.m4a
+时长: 03:11
+--------------------
+文件: CTET.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/CTET.m4a
+时长: 04:27
+--------------------
+文件: VZWD.mp3
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/VZWD.mp3
+时长: 03:37
+--------------------
+文件: CNDD.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/CNDD.m4a
+时长: 00:00
+--------------------
+文件: PUPF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/PUPF.m4a
+时长: 03:28
+--------------------
+文件: NHPV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/NHPV.m4a
+时长: 06:55
+--------------------
+文件: YYVZ.mp3
+标题: 04. ÃÀ¾°
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/YYVZ.mp3
+时长: 01:23
+--------------------
+文件: CPOX.mp3
+标题: »ôÔª¼×
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/CPOX.mp3
+时长: 04:38
+--------------------
+文件: PVUB.mp3
+标题: ÈA×Ó
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F19/PVUB.mp3
+时长: 02:12
+--------------------
+文件: UXJV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F20/UXJV.m4a
+时长: 00:19
+--------------------
+文件: CEML.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F20/CEML.m4a
+时长: 05:05
+--------------------
+文件: GMAU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F20/GMAU.m4a
+时长: 03:57
+--------------------
+文件: IWDH.mp3
+标题: æ¤½¤¦¤½¤¦
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F20/IWDH.mp3
+时长: 05:03
+--------------------
+文件: MVYM.mp3
+标题: Ô­Éù´óµú - ÏæÂ×Ð¡ÓêËÄÊÖÁªµ¯
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F20/MVYM.mp3
+时长: 00:40
+--------------------
+文件: MZGI.mp3
+标题: Ô­Éù´óµú - ²»ÄÜËµµÄÃØÃÜ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F20/MZGI.mp3
+时长: 04:56
+--------------------
+文件: IZEI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F21/IZEI.m4a
+时长: 04:37
+--------------------
+文件: GEUH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F21/GEUH.m4a
+时长: 02:43
+--------------------
+文件: WSZO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F21/WSZO.m4a
+时长: 05:28
+--------------------
+文件: SJHD.mp3
+标题: COSMOS£¨Çï@£©
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F21/SJHD.mp3
+时长: 03:01
+--------------------
+文件: VVOK.mp3
+标题: Ô­Éù´óµú - First Kiss
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F21/VVOK.mp3
+时长: 01:31
+--------------------
+文件: DBJH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/DBJH.m4a
+时长: 03:51
+--------------------
+文件: ZFRL.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/ZFRL.m4a
+时长: 03:53
+--------------------
+文件: QXTM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/QXTM.m4a
+时长: 04:15
+--------------------
+文件: MWYT.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/MWYT.m4a
+时长: 07:19
+--------------------
+文件: RAUV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/RAUV.m4a
+时长: 04:05
+--------------------
+文件: RMEN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/RMEN.m4a
+时长: 04:20
+--------------------
+文件: HYEB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/HYEB.m4a
+时长: 03:00
+--------------------
+文件: PDYY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/PDYY.m4a
+时长: 01:26
+--------------------
+文件: QWGP.mp3
+标题: 03. ²¨Ò¯
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/QWGP.mp3
+时长: 02:14
+--------------------
+文件: GNWL.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/GNWL.m4a
+时长: 03:48
+--------------------
+文件: BSEW.mp3
+标题: Ô­Éù´óµú - Secret (¼Ó³¤¿ì°å)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F22/BSEW.mp3
+时长: 01:25
+--------------------
+文件: WRMS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/WRMS.m4a
+时长: 04:26
+--------------------
+文件: EFGP.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/EFGP.m4a
+时长: 04:34
+--------------------
+文件: CIPO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/CIPO.m4a
+时长: 03:52
+--------------------
+文件: IHMM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/IHMM.m4a
+时长: 03:46
+--------------------
+文件: HZRW.mp3
+标题: 14. ÈÈÑªÂëÍ·
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/HZRW.mp3
+时长: 00:52
+--------------------
+文件: NWBU.mp3
+标题: 05. ÀË×Ó¸à
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/NWBU.mp3
+时长: 01:24
+--------------------
+文件: YDYX.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/YDYX.m4a
+时长: 04:36
+--------------------
+文件: MDTJ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/MDTJ.m4a
+时长: 03:42
+--------------------
+文件: QLGR.mp3
+标题: Ô­Éù´óµú - Angel
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/QLGR.mp3
+时长: 01:53
+--------------------
+文件: ASVH.mp3
+标题: ÎÞË«
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/ASVH.mp3
+时长: 03:53
+--------------------
+文件: NRAO.mp3
+标题: Frédéric Chopin: Nocturne No. 1 in B Flat Minor, Op. 9, No. 1
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F23/NRAO.mp3
+时长: 05:23
+--------------------
+文件: YOMK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/YOMK.m4a
+时长: 04:13
+--------------------
+文件: GVNV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/GVNV.m4a
+时长: 02:54
+--------------------
+文件: OVZW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/OVZW.m4a
+时长: 04:51
+--------------------
+文件: ARRE.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/ARRE.m4a
+时长: 03:58
+--------------------
+文件: JBMT.mp3
+标题: Ô­Éù´óµú - Ôç²Ù
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/JBMT.mp3
+时长: 01:36
+--------------------
+文件: LSSX.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/LSSX.m4a
+时长: 04:46
+--------------------
+文件: GQSM.mp3
+标题: Les Misérables Medley
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/GQSM.mp3
+时长: 04:14
+--------------------
+文件: OFWN.mp3
+标题: Cumbé
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F24/OFWN.mp3
+时长: 03:17
+--------------------
+文件: DASF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/DASF.m4a
+时长: 03:25
+--------------------
+文件: WCXO.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/WCXO.m4a
+时长: 04:16
+--------------------
+文件: RDFN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/RDFN.m4a
+时长: 01:11
+--------------------
+文件: DXNV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/DXNV.m4a
+时长: 04:47
+--------------------
+文件: YRAG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/YRAG.m4a
+时长: 04:14
+--------------------
+文件: LFLC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/LFLC.m4a
+时长: 04:17
+--------------------
+文件: MXGC.mp3
+标题: Wolfgang Amadeus Mozart: Requiem in D minor, K.626 - compl. by Franz Xaver Süssmayer - 7. Agnus Dei
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/MXGC.mp3
+时长: 03:40
+--------------------
+文件: YJLW.mp3
+标题: SAKURA£¨@£©
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/YJLW.mp3
+时长: 03:16
+--------------------
+文件: HYPQ.mp3
+标题: Ô­Éù´óµú - Óë¸¸¹²Îè
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F25/HYPQ.mp3
+时长: 01:25
+--------------------
+文件: GAEH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F26/GAEH.m4a
+时长: 03:48
+--------------------
+文件: BYCS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F26/BYCS.m4a
+时长: 05:38
+--------------------
+文件: SEHZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F26/SEHZ.m4a
+时长: 09:22
+--------------------
+文件: QPKU.mp3
+标题: ÀËÂþÊ«ÈË
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F26/QPKU.mp3
+时长: 02:51
+--------------------
+文件: LFLV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F27/LFLV.m4a
+时长: 04:39
+--------------------
+文件: PIVH.mp3
+标题: ´²±ß¹ÊÊÂ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F27/PIVH.mp3
+时长: 03:45
+--------------------
+文件: RZQU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F27/RZQU.m4a
+时长: 03:15
+--------------------
+文件: XUNN.mp3
+标题: ºì³¾¿ÍÕ»
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F27/XUNN.mp3
+时长: 04:35
+--------------------
+文件: QRQO.mp3
+标题: ÉµÐ¦
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F27/QRQO.mp3
+时长: 04:49
+--------------------
+文件: VTFI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F28/VTFI.m4a
+时长: 04:18
+--------------------
+文件: PJEG.mp3
+标题: 20. É¸×Ó
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F28/PJEG.mp3
+时长: 01:01
+--------------------
+文件: LITJ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F28/LITJ.m4a
+时长: 04:27
+--------------------
+文件: LSSI.mp3
+标题: ÐÇÆÚÁù¼sþ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F28/LSSI.mp3
+时长: 02:45
+--------------------
+文件: KUIL.mp3
+标题: r¤ÎÁ÷¤ì¤ËÉí¤ò¤Þ¤«¤»
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F28/KUIL.mp3
+时长: 04:38
+--------------------
+文件: MDNB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F29/MDNB.m4a
+时长: 04:26
+--------------------
+文件: YVXD.mp3
+标题: âÌm£¨¥Ô¥¢¥Î¡¢¥¹¥È¥ê¥ó¥°¥¹ ¥Ð
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F29/YVXD.mp3
+时长: 04:31
+--------------------
+文件: IFFP.mp3
+标题: ·ÖÊÖÖ®áá
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F29/IFFP.mp3
+时长: 04:41
+--------------------
+文件: ZRTE.mp3
+标题: µ¾Ïã
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F29/ZRTE.mp3
+时长: 03:43
+--------------------
+文件: DCYC.mp3
+标题: Ô­Éù´óµú - °¢ÀÉÓë°¢±¦
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F29/DCYC.mp3
+时长: 02:20
+--------------------
+文件: QYWI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F30/QYWI.m4a
+时长: 05:13
+--------------------
+文件: NPIE.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F30/NPIE.m4a
+时长: 03:36
+--------------------
+文件: XRZY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F30/XRZY.m4a
+时长: 03:55
+--------------------
+文件: OAPR.mp3
+标题: ¶Ñ·eÇé¸Ð
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F30/OAPR.mp3
+时长: 04:26
+--------------------
+文件: LVNE.mp3
+标题: Ô­Éù´óµú - Ride With Me
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F30/LVNE.mp3
+时长: 01:28
+--------------------
+文件: YELC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/YELC.m4a
+时长: 03:44
+--------------------
+文件: GVKE.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/GVKE.m4a
+时长: 04:51
+--------------------
+文件: WCQV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/WCQV.m4a
+时长: 05:45
+--------------------
+文件: AEAA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/AEAA.m4a
+时长: 04:01
+--------------------
+文件: BNZG.mp3
+标题: Taiwan Pop Sucks£¬2000
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/BNZG.mp3
+时长: 01:29
+--------------------
+文件: URBJ.mp3
+标题: Ô­Éù´óµú - ½ÅÌ¤³µ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/URBJ.mp3
+时长: 02:19
+--------------------
+文件: ROKG.mp3
+标题: Ô­Éù´óµú - ¸¸Óë×Ó
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F31/ROKG.mp3
+时长: 02:17
+--------------------
+文件: KNDY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/KNDY.m4a
+时长: 04:45
+--------------------
+文件: MKKM.mp3
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/MKKM.mp3
+时长: 03:16
+--------------------
+文件: CWBN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/CWBN.m4a
+时长: 06:27
+--------------------
+文件: USKB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/USKB.m4a
+时长: 01:35
+--------------------
+文件: MFZI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/MFZI.m4a
+时长: 05:23
+--------------------
+文件: UYXA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/UYXA.m4a
+时长: 03:53
+--------------------
+文件: ZGWH.mp3
+标题: ×î³¤µÄµçÓ°
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/ZGWH.mp3
+时长: 03:55
+--------------------
+文件: RXNJ.mp3
+标题: ÆÑ¹«Ó¢µÄÔ¼¶¨
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/RXNJ.mp3
+时长: 04:07
+--------------------
+文件: XZXF.mp3
+标题: Ô­Éù´óµú - Opening
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F32/XZXF.mp3
+时长: 02:28
+--------------------
+文件: VQES.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/VQES.m4a
+时长: 04:55
+--------------------
+文件: BUVK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/BUVK.m4a
+时长: 04:20
+--------------------
+文件: IXSV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/IXSV.m4a
+时长: 08:23
+--------------------
+文件: SMQT.mp3
+标题: 21. ´óÃ÷ÐÇ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/SMQT.mp3
+时长: 01:28
+--------------------
+文件: OIWV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/OIWV.m4a
+时长: 04:07
+--------------------
+文件: VOGA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/VOGA.m4a
+时长: 03:45
+--------------------
+文件: DVXN.mp3
+标题: ¹«¹«Æ«Í·Í´
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F33/DVXN.mp3
+时长: 03:03
+--------------------
+文件: QFBV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F34/QFBV.m4a
+时长: 03:32
+--------------------
+文件: UGHW.mp3
+标题: 01. ÃÀÊõ¹Ý
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F34/UGHW.mp3
+时长: 01:22
+--------------------
+文件: EYBV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F34/EYBV.m4a
+时长: 04:19
+--------------------
+文件: SJAB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F34/SJAB.m4a
+时长: 04:38
+--------------------
+文件: RXXH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F34/RXXH.m4a
+时长: 03:23
+--------------------
+文件: DMPJ.mp3
+标题: Ô­Éù´óµú - µ­Ë®º£±ß
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F34/DMPJ.mp3
+时长: 01:05
+--------------------
+文件: RAEQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/RAEQ.m4a
+时长: 05:51
+--------------------
+文件: AVNE.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/AVNE.m4a
+时长: 05:49
+--------------------
+文件: TCBY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/TCBY.m4a
+时长: 01:01
+--------------------
+文件: BASV.mp3
+标题: 30. ÐÖµÜµÄ°²Î¿
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/BASV.mp3
+时长: 01:28
+--------------------
+文件: IWKY.m4a
+标题: パ贵洱╈
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/IWKY.m4a
+时长: 09:26
+--------------------
+文件: KPIA.mp3
+标题: ÞxÕ¯Ö®Ò¹
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/KPIA.mp3
+时长: 04:32
+--------------------
+文件: ZFVP.mp3
+标题: Ò»Â·±±Ïò
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F35/ZFVP.mp3
+时长: 04:57
+--------------------
+文件: ZXDH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/ZXDH.m4a
+时长: 03:18
+--------------------
+文件: ILQM.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/ILQM.m4a
+时长: 03:40
+--------------------
+文件: FOYO.mp3
+标题: Ç°ÊÀÇéÈË
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/FOYO.mp3
+时长: 03:22
+--------------------
+文件: ALAQ.mp3
+标题: ÈÔÈ»ÐÄÔÚÏëÄã
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/ALAQ.mp3
+时长: 04:08
+--------------------
+文件: FWAW.mp3
+标题: ºÃoÁÄ 
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/FWAW.mp3
+时长: 02:56
+--------------------
+文件: BGGM.mp3
+标题: ´ó±¿ÖÓ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/BGGM.mp3
+时长: 04:02
+--------------------
+文件: EIHI.mp3
+标题: ÊÖÓï
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F36/EIHI.mp3
+时长: 04:48
+--------------------
+文件: BVHR.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/BVHR.m4a
+时长: 04:40
+--------------------
+文件: AVXY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/AVXY.m4a
+时长: 04:32
+--------------------
+文件: UYCB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/UYCB.m4a
+时长: 03:58
+--------------------
+文件: WXJZ.mp3
+标题: ²»°®ÎÒ¾ÍÀ­µ¹
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/WXJZ.mp3
+时长: 04:05
+--------------------
+文件: KDJY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/KDJY.m4a
+时长: 04:10
+--------------------
+文件: VPOD.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/VPOD.m4a
+时长: 03:58
+--------------------
+文件: HRNO.mp3
+标题: Paganini: Violin Concerto No.2 In B Minor, Op.7, MS.48 - 3. Rondo à la clochette, 'La campanella'
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F37/HRNO.mp3
+时长: 09:04
+--------------------
+文件: HKGW.mp3
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F38/HKGW.mp3
+时长: 03:20
+--------------------
+文件: TCWB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F38/TCWB.m4a
+时长: 04:04
+--------------------
+文件: XIRN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F38/XIRN.m4a
+时长: 03:41
+--------------------
+文件: WNVR.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F38/WNVR.m4a
+时长: 04:35
+--------------------
+文件: BMJU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F38/BMJU.m4a
+时长: 05:38
+--------------------
+文件: CPNI.mp3
+标题: ÔõüNÞk
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F38/CPNI.mp3
+时长: 00:57
+--------------------
+文件: EJDK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F39/EJDK.m4a
+时长: 04:40
+--------------------
+文件: QQIQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F39/QQIQ.m4a
+时长: 05:57
+--------------------
+文件: FRMC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F39/FRMC.m4a
+时长: 02:57
+--------------------
+文件: ARUV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F39/ARUV.m4a
+时长: 03:33
+--------------------
+文件: MICI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F39/MICI.m4a
+时长: 04:23
+--------------------
+文件: VQHJ.mp3
+标题: Per Qualche Dollaro in Piú  
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F39/VQHJ.mp3
+时长: 02:52
+--------------------
+文件: FGCA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/FGCA.m4a
+时长: 05:08
+--------------------
+文件: HJMK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/HJMK.m4a
+时长: 04:22
+--------------------
+文件: ARRX.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/ARRX.m4a
+时长: 04:39
+--------------------
+文件: JIRF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/JIRF.m4a
+时长: 03:59
+--------------------
+文件: ORXD.mp3
+标题: 28. ÍþÉÙµÄÏÝÚå
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/ORXD.mp3
+时长: 01:46
+--------------------
+文件: NLTW.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/NLTW.m4a
+时长: 07:12
+--------------------
+文件: KCEV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/KCEV.m4a
+时长: 00:00
+--------------------
+文件: HBMS.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/HBMS.m4a
+时长: 06:41
+--------------------
+文件: TWTO.mp3
+标题: Ë¯É£¨¤¹¤¤¤ì¤ó£©
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/TWTO.mp3
+时长: 05:21
+--------------------
+文件: GMGR.mp3
+标题: Ã÷Ã÷¾Í
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F40/GMGR.mp3
+时长: 04:18
+--------------------
+文件: HMKL.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/HMKL.m4a
+时长: 04:18
+--------------------
+文件: IQJY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/IQJY.m4a
+时长: 04:20
+--------------------
+文件: NAMK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/NAMK.m4a
+时长: 05:51
+--------------------
+文件: KORV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/KORV.m4a
+时长: 04:57
+--------------------
+文件: BXPD.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/BXPD.m4a
+时长: 04:56
+--------------------
+文件: XCHC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/XCHC.m4a
+时长: 03:59
+--------------------
+文件: OSLZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/OSLZ.m4a
+时长: 04:04
+--------------------
+文件: LNPV.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/LNPV.m4a
+时长: 04:13
+--------------------
+文件: PCTO.mp3
+标题: 18. ÇéÈËºþÒ¹ÊÐ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/PCTO.mp3
+时长: 01:01
+--------------------
+文件: QOFS.mp3
+标题: 11. ¿ìÃÅÂýÎè
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/QOFS.mp3
+时长: 04:14
+--------------------
+文件: YSQN.mp3
+标题: ÎÚ¿ËÀöÀö
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F41/YSQN.mp3
+时长: 02:55
+--------------------
+文件: NULG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/NULG.m4a
+时长: 04:28
+--------------------
+文件: OUNC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/OUNC.m4a
+时长: 00:47
+--------------------
+文件: LSFK.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/LSFK.m4a
+时长: 03:27
+--------------------
+文件: ERQG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/ERQG.m4a
+时长: 04:27
+--------------------
+文件: EGJP.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/EGJP.m4a
+时长: 06:15
+--------------------
+文件: ZTIC.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/ZTIC.m4a
+时长: 04:26
+--------------------
+文件: JVXT.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/JVXT.m4a
+时长: 02:53
+--------------------
+文件: CYDJ.mp3
+标题: Ò»Éú²»ÍüÓ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/CYDJ.mp3
+时长: 02:48
+--------------------
+文件: THMY.mp3
+标题: Û N N
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/THMY.mp3
+时长: 06:02
+--------------------
+文件: UBNF.mp3
+标题: Ï¦ê¤ÎÖÐ¤ÎÉÙÄê
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/UBNF.mp3
+时长: 05:58
+--------------------
+文件: FRJF.mp3
+标题: 如果·爱
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/FRJF.mp3
+时长: 03:53
+--------------------
+文件: GITP.mp3
+标题: ÇÇ¿ËÊåÊå
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/GITP.mp3
+时长: 04:18
+--------------------
+文件: TNYI.mp3
+标题: »¨º£
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F42/TNYI.mp3
+时长: 04:26
+--------------------
+文件: WVJN.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/WVJN.m4a
+时长: 04:03
+--------------------
+文件: XFAV.mp3
+标题: 27. ¹·×ÐÎè
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/XFAV.mp3
+时长: 02:44
+--------------------
+文件: LUWW.mp3
+标题: 12. °¢ÀÊµÄÍ¯Äê
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/LUWW.mp3
+时长: 01:06
+--------------------
+文件: TVRG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/TVRG.m4a
+时长: 03:50
+--------------------
+文件: PDID.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/PDID.m4a
+时长: 00:08
+--------------------
+文件: CEQY.mp3
+标题: 我落泪·情绪零碎
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/CEQY.mp3
+时长: 04:17
+--------------------
+文件: AMZH.mp3
+标题: La valse d'Amélie (Version originale)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/AMZH.mp3
+时长: 02:15
+--------------------
+文件: MYLS.mp3
+标题: La possibilité d'une île
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F43/MYLS.mp3
+时长: 03:57
+--------------------
+文件: NXAJ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F44/NXAJ.m4a
+时长: 04:40
+--------------------
+文件: BZJW.mp3
+标题: ÌðÌðµÄ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F44/BZJW.mp3
+时长: 04:03
+--------------------
+文件: ZGAU.mp3
+标题: Balada (Tchê tcherere tchê tchê)
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F44/ZGAU.mp3
+时长: 03:21
+--------------------
+文件: UMVG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/UMVG.m4a
+时长: 04:15
+--------------------
+文件: ZWJO.mp3
+标题: 32. ÎÞÖú
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/ZWJO.mp3
+时长: 01:09
+--------------------
+文件: WJHL.mp3
+标题: 26. Öñ¸ÍÎè
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/WJHL.mp3
+时长: 00:55
+--------------------
+文件: IRMD.mp3
+标题: 24. Ó¢ÐÛÖ®¸è
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/IRMD.mp3
+时长: 00:54
+--------------------
+文件: UIDZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/UIDZ.m4a
+时长: 04:26
+--------------------
+文件: ZMPD.mp3
+标题: 15. Ç®ÄÑ×¬
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/ZMPD.mp3
+时长: 01:21
+--------------------
+文件: PYJG.mp3
+标题: ¥µ¥é¥¤
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/PYJG.mp3
+时长: 05:59
+--------------------
+文件: FOFF.mp3
+标题: ÈA
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/FOFF.mp3
+时长: 05:29
+--------------------
+文件: WVOO.mp3
+标题: Life¡¯s A Struggle
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/WVOO.mp3
+时长: 06:11
+--------------------
+文件: UZBF.mp3
+标题: »ôÔª¼×
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/UZBF.mp3
+时长: 04:38
+--------------------
+文件: PZTA.mp3
+标题: ÉßÎè
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/PZTA.mp3
+时长: 02:56
+--------------------
+文件: YPFG.mp3
+标题: Ô­Éù´óµú - Ð¡ÓêÐ´Á¢¿É°×¢ñ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F45/YPFG.mp3
+时长: 01:15
+--------------------
+文件: UYFG.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F46/UYFG.m4a
+时长: 08:17
+--------------------
+文件: IGWB.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F46/IGWB.m4a
+时长: 03:40
+--------------------
+文件: FVBL.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F46/FVBL.m4a
+时长: 04:40
+--------------------
+文件: RMQQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F46/RMQQ.m4a
+时长: 04:02
+--------------------
+文件: SEJZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F46/SEJZ.m4a
+时长: 03:50
+--------------------
+文件: PONO.mp3
+标题: ÁúÕ½ÆïÊ¿
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F46/PONO.mp3
+时长: 04:33
+--------------------
+文件: SOMF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F47/SOMF.m4a
+时长: 04:36
+--------------------
+文件: EFIF.mp3
+标题: 06. ÌìÌ¨
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F47/EFIF.mp3
+时长: 01:46
+--------------------
+文件: JUOQ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F47/JUOQ.m4a
+时长: 03:46
+--------------------
+文件: VKIB.mp3
+标题: Ñô¹âÕ¬ÄÐ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F47/VKIB.mp3
+时长: 03:42
+--------------------
+文件: ZQOF.mp3
+标题: Ê±¹â»ú
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F47/ZQOF.mp3
+时长: 05:13
+--------------------
+文件: IVVA.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/IVVA.m4a
+时长: 04:41
+--------------------
+文件: FNUU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/FNUU.m4a
+时长: 03:59
+--------------------
+文件: GSYH.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/GSYH.m4a
+时长: 05:42
+--------------------
+文件: JTKZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/JTKZ.m4a
+时长: 04:11
+--------------------
+文件: VDFG.mp3
+标题: 29. ÄÄÑe¶¼ÊÇÄã
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/VDFG.mp3
+时长: 04:40
+--------------------
+文件: XQGQ.mp3
+标题: 02. ±£ÁäÄÐº¢
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/XQGQ.mp3
+时长: 01:08
+--------------------
+文件: GLFR.mp3
+标题: ¸øÎÒÒ»Ê×¸èµÄÊ±¼ä
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/GLFR.mp3
+时长: 04:15
+--------------------
+文件: ITSN.mp3
+标题: Ô­Éù´óµú - ÇÙ·¿
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/ITSN.mp3
+时长: 01:41
+--------------------
+文件: PMGT.mp3
+标题: Ô­Éù´óµú - Å®º¢±ðÎªÎÒ¿ÞÆü
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F48/PMGT.mp3
+时长: 01:21
+--------------------
+文件: YUOY.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/YUOY.m4a
+时长: 03:52
+--------------------
+文件: DOTI.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/DOTI.m4a
+时长: 04:42
+--------------------
+文件: PQFJ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/PQFJ.m4a
+时长: 03:52
+--------------------
+文件: KERZ.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/KERZ.m4a
+时长: 05:31
+--------------------
+文件: JUJF.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/JUJF.m4a
+时长: 05:47
+--------------------
+文件: SJIE.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/SJIE.m4a
+时长: 04:38
+--------------------
+文件: AYFU.m4a
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/AYFU.m4a
+时长: 05:11
+--------------------
+文件: FFQC.mp3
+标题: Ô­Éù´óµú - The Swan
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/FFQC.mp3
+时长: 02:32
+--------------------
+文件: OAFV.mp3
+标题: Ô­Éù´óµú - ÇçÌìÍÞÍÞ
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/OAFV.mp3
+时长: 02:31
+--------------------
+文件: SOFO.mp3
+标题: Ä§ÊõÏÈÉú
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/SOFO.mp3
+时长: 03:49
+--------------------
+文件: ROXQ.mp3
+标题: ÄÄÀï¶¼ÊÇÄã
+路径: /Volumes/“ADMINISTR/iPod_Control/Music/F49/ROXQ.mp3
+时长: 04:39
+--------------------
