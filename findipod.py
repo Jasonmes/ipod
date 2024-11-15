@@ -199,7 +199,7 @@ def export_clean_songs(music_path, output_file, problem_file):
                     f.write(f"{title} [{format_duration(duration)}]\n")
                 except Exception as e:
                     if error_count == 0:
-                        pf.write("\n3. 读取错误文件:\n")
+                        pf.write("\n3. 读取错误���件:\n")
                         pf.write("-" * 30 + "\n")
                     error_count += 1
                     pf.write(f"文件: {file}\n")
@@ -358,7 +358,74 @@ def count_total_songs(music_path):
         print(f"{ext}: {count}")
     
     return total_count
+
+
+
+def backup_all_songs(music_path, backup_path):
+    """
+    将所有音频文件备份到指定目录，保持原始文件名
+    """
+    total_count = 0
+    error_count = 0
+    supported_formats = ['.mp3', '.m4a', '.m4p', '.aac', '.alac', '.wav', '.aif', '.aiff']
     
+    # 确保备份目录存在
+    if not os.path.exists(backup_path):
+        os.makedirs(backup_path)
+    
+    print(f"开始备份音乐文件到: {backup_path}")
+    print("正在复制...")
+    
+    for folder in sorted(os.listdir(music_path)):
+        if not folder.startswith('F'):
+            continue
+            
+        folder_path = os.path.join(music_path, folder)
+        if not os.path.isdir(folder_path):
+            continue
+            
+        for file in os.listdir(folder_path):
+            if file.startswith('._'):
+                continue
+                
+            ext = os.path.splitext(file)[1].lower()
+            if ext not in supported_formats:
+                continue
+                
+            try:
+                src_path = os.path.join(folder_path, file)
+                dest_path = os.path.join(backup_path, file)
+                
+                # 如果文件已存在，添加数字后缀
+                if os.path.exists(dest_path):
+                    name, ext = os.path.splitext(file)
+                    counter = 1
+                    while os.path.exists(dest_path):
+                        new_filename = f"{name}_{counter}{ext}"
+                        dest_path = os.path.join(backup_path, new_filename)
+                        counter += 1
+                
+                shutil.copy2(src_path, dest_path)
+                total_count += 1
+                
+                # 显示进度
+                if total_count % 100 == 0:
+                    print(f"已复制: {total_count} 个文件")
+                    
+            except Exception as e:
+                error_count += 1
+                print(f"复制失败: {file}")
+                print(f"错误信息: {str(e)}")
+                continue
+    
+    print("\n备份完成!")
+    print("-" * 30)
+    print(f"成功复制: {total_count} 个文件")
+    if error_count > 0:
+        print(f"复制失败: {error_count} 个文件")
+    
+    return total_count
+
 
 if __name__ == "__main__":
     music_path = "/Volumes/“ADMINISTR/iPod_Control/Music/"
@@ -368,9 +435,9 @@ if __name__ == "__main__":
     problem_file = "/Users/jasonmes/Documents/CodeSpace/ipod/problem_songs.txt"
     
     # 先导出干净的歌曲列表
-    print("开始导出所有可读的音乐文件信息...")
+    # print("开始导出所有可读的音乐文件信息...")
     # export_clean_songs(music_path, output_file)
-    export_clean_songs(music_path, output_file, problem_file)
+    # export_clean_songs(music_path, output_file, problem_file)
     
     # 然后搜索并复制特定文件
     # search_keyword = "20170324 072259"
@@ -378,9 +445,14 @@ if __name__ == "__main__":
     # find_and_copy_song(music_path, dest_path, search_keyword)
 
 
-    print("开始查找没有艺术家信息的音乐文件...")
+    # print("开始查找没有艺术家信息的音乐文件...")
     # find_songs_without_artist(music_path, songs_without_artist_file)
 
 
-    print("开始统计音频文件...")
-    total_songs = count_total_songs(music_path)
+    # print("开始统计音频文件...")
+    # total_songs = count_total_songs(music_path)
+
+    backup_path = "/Volumes/books/backmusic"
+    
+    print("开始备份所有音乐文件...")
+    backup_all_songs(music_path, backup_path)
